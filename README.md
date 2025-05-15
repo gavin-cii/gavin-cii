@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/wide/68264b2a2755c70244498080?variant=dark&roadmaps=frontend)](https://roadmap.sh)
 <!--
 **gavin-cii/gavin-cii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
